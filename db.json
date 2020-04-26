@@ -1,3 +1,7 @@
 {
-  "employees": {}
+  "employees": {
+    "id": "0",
+    "name": "James"
+    "job": "Developers"
+  }
 }
