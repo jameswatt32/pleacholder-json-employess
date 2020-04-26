@@ -1,7 +1,5 @@
 {
-  "employees": {
-    "id": "0",
-    "name": "James",
-    "job": "Developers"
-  }
+  "employees": [
+    { "id": "0", "name": "James", "job": "Developer"}
+  ]
 }
